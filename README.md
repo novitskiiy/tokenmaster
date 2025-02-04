@@ -31,3 +31,7 @@ In a separate terminal execute:
 
 ### 6. Start frontend
 `$ npm run start`
+
+
+
+![imgonline-com-ua-GIF-Animation-G5IazBiMFMMa](https://github.com/user-attachments/assets/65d3630b-c88b-4e05-8020-8df7ae417735)
